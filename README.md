@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TabithaSW
 - 👀 I’m interested in Data Science, Robotics, Artificial Intelligence, Video Games, Machine Learning
-- 🌱 I’m currently learning Data Science with Python and R Studio at MSU!
+- 🌱 I’m currently going for a bachelors in Data Science with languages Python, C++, and R at MSU!
 - 💞️ I’m looking to collaborate on Data Science projects!
-- 📫 How to reach me: message on github, use msu email!
+- 📫 How to reach me: message on github, or email my msu email!
