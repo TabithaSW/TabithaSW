@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TabithaSW
 - 👀 I’m interested in Data Science, Statistical Analysis, Machine Learning, Software Development, and Video Games!
-- 🌱 I’m currently attending MSU for a bachelors in Data Science, set to graduate in May of 2023. 
+- 🌱 I recently graduated from MSU with a bachelors in Data Science in May of 2023. 
 - 👋 I work with languages such as Python, C++, and R!
 - 💞️ I’m looking to collaborate on Data Science projects, and work on my personal ones.
 - 📫 How to reach me: Message on github, or email me at my personal or msu email!
