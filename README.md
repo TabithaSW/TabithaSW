@@ -13,6 +13,8 @@
 
 ### Data Forge
 
+![Figure 1](logo.png) 
+
 **Data Forge** is a versatile toolkit designed for **data conversion, analysis, and visualization**. It supports various file formats including XML, CSV, Excel, and JSON, allowing for seamless conversions. With integrated features like data preview, merge capabilities, detailed data summaries, and custom plot creation, it simplifies data manipulation tasks, making it a go-to application for data enthusiasts.
 
 ### Sentiment Analysis on Steam Reviews
