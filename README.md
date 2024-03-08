@@ -25,6 +25,4 @@ I'm currently working on a **Sentiment Analysis project** focused on **Steam rev
 - 💼 I’m looking to collaborate on **Software Development, Game Design**, or **Data Science projects**.
 - 📫 How to reach me: Email me at tabithaweinbrenner@gmail.com!
 
----
-
 Let's connect and collaborate on exciting projects together! 🌟
