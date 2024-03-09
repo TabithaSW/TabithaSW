@@ -11,7 +11,7 @@
 
 ## Personal Favorite Projects:
 
-### Data Forge
+### Data Forge Fusion
 
 ![Figure 1](logo.png) 
 
