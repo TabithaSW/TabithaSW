@@ -7,8 +7,7 @@
 - 👀 I'm passionate about **Data Science, Web and App Development, Statistical Analysis, Machine Learning, and Video Games!**.
 - 🎓 I am an MSU graduate with a bachelor's degree in **Data Science** as of May, 2023.
 - 🌱 Skilled in **Python, C++, SQL, and R**, and familiar with **Flask** and **Django** frameworks.
-- 💞️ Looking to collaborate on **Software Development, Game Design**, or **Data Science Projects**, with a focuse on my personal projects.
-
+- 💞️ Looking to collaborate on **Software Development, Game Design**, or **Data Science Projects.**
 
 ### Data Forge Fusion
 
