@@ -24,9 +24,7 @@
   - Utilizes **Latent Dirichlet Allocation (LDA)** to identify recurring themes and topics within the reviews, such as gameplay, graphics, bugs, or updates.
 - Different visualizations and statistical results are provided in png and csv formats for detailed analytical results.
 
-## Collaboration and Contact
-
-- 💼 I’m looking to collaborate on **Software Development, Game Design**, or **Data Science projects**.
+## Contact
 - 📫 How to reach me: Email me at tabithaweinbrenner@gmail.com!
 
 Let's connect and collaborate on exciting projects together! 🌟
