@@ -10,7 +10,6 @@
 - 💞️ Looking to collaborate on **Software Development, Game Design**, or **Data Science Projects.**
 
 ## Data Forge Fusion
-
 ![Figure 1](Forge.png) 
 
 **Data Forge Fusion** is a versatile toolkit designed for **data conversion, cleaning, analysis, and visualization**. It supports various file formats including XML, CSV, Parquet, Excel, and JSON, allowing for seamless conversions. With integrated features like data previewing, merge capabilities, file compression, detailed data summaries, duplicate detection, and custom plot creation, it simplifies data manipulation tasks, making it a go-to application for data enthusiasts.
