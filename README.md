@@ -26,7 +26,7 @@
 ## Custom DBMS
 <img src="DBMS_Logo.png" alt="DBMS" width="150" height="150">
 
-A lightweight, SQL statement or file-based database management system that takes in SQL and generates custom databases with tables and views. The database can be generated with ease, modified via an intuitive Flask web application, and exported as a JSON file to the user's PC.
+A lightweight, individual query or file-based database management system that takes in SQL and generates custom databases with tables and views. The database can be generated with ease, modified via an intuitive Flask web application, and exported as a JSON file to the user's PC.
 
 ## Contact
 - 📫 How to reach me: Email me at tabithaweinbrenner@gmail.com!
