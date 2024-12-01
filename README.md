@@ -12,7 +12,6 @@
 ## Data Forge Fusion
 <img src="Forge.png" alt="Data Forge Fusion" width="250" height="250">
 
-
 **Data Forge Fusion** is a versatile toolkit designed for **data conversion, cleaning, analysis, and visualization**. It supports various file formats including XML, CSV, Parquet, Excel, and JSON, allowing for seamless conversions. With integrated features like data previewing, merge capabilities, file compression, detailed data summaries, duplicate detection, and custom plot creation, it simplifies data manipulation tasks, making it a go-to application for data enthusiasts.
 
 ## Steam Sentiment Analysis
@@ -23,6 +22,11 @@
 - **Topic Modeling with LDA**: 
   - Utilizes **Latent Dirichlet Allocation (LDA)** to identify recurring themes and topics within the reviews, such as gameplay, graphics, bugs, or updates.
 - Different visualizations and statistical results are provided in png and csv formats for detailed analytical results.
+
+## Custom DBMS
+<img src="DBMS_Logo.png" alt="DBMS" width="150" height="150">
+
+A lightweight, SQL statement or file-based database management system that takes in SQL and generates custom databases with tables and views. The database can be generated with ease, modified via an intuitive Flask web application, and exported as a JSON file to the user's PC.
 
 ## Contact
 - 📫 How to reach me: Email me at tabithaweinbrenner@gmail.com!
