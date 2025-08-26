@@ -26,7 +26,13 @@
 ## Custom DBMS
 <img src="DBMS_Logo.png" alt="DBMS" width="150" height="150">
 
-A lightweight, individual query or file-based database management system that takes in SQL and generates custom databases with tables and views. The database can be generated with ease, modified via an intuitive Flask web application, and exported as a JSON file to the user's PC.
+A custom SQL-like Database Management System built in Python with support for transactions, table operations, and concurrency control via locks. Databases can be exported as JSON for persistence.
+
+The project includes a Flask-powered web interface with HTML/CSS and jQuery, providing a clean two-panel layout:
+	•	Query Box – enter SQL statements (CREATE, INSERT, SELECT, UPDATE, DELETE, DROP).
+	•	Data Box – view results in a formatted, tabular display.
+
+This makes the system both a learning tool for database internals (parsing, locking, transaction handling) and a functional lightweight DBMS that can run locally from your desktop through a simple web app.
 
 ## Contact
 - 📫 How to reach me: Email me at tabithaweinbrenner@gmail.com!
